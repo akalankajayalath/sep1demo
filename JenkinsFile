@@ -1,4 +1,4 @@
-pipeline {
+akalanka
 agent any
 environment {
 dotnet = 'path\\to\\dotnet.exe'
